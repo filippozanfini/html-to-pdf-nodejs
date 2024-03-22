@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+
+.container {
+  max-width: 800px;
+  padding: 40px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.cover-image {
+  max-width: 100%;
+  height: auto;
+}

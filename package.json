@@ -1,0 +1,15 @@
+{
+  "name": "alidays-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node app.ts"
+  },
+  "author": "Filippo Zanfini",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.6.0"
+  }
+}
